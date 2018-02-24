@@ -13,9 +13,9 @@ title                    : "AMC's Blog"
 title_separator          : "|"
 name                     : "AMC"
 description              : "Câu lạc bộ Toán ứng dụng AMC trực thuộc Hội sinh viên Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội."
-url                      : https://testvon.github.io
+url                      : https://amcblog.github.io
 baseurl                  : 
-repository               : "testvon/testvon.github.io"
+repository               : "amcblog/amcblog.github.io"
 teaser                   : /images/posts-1.jpeg
 breadcrumbs              :   # false (default)
 words_per_minute         : 200
