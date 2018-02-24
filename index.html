@@ -1,0 +1,34 @@
+---
+layout: splash
+header:
+  overlay_image: /images/header-1.jpeg
+  overlay_filter: 0.4
+pagination: 
+  enabled: true
+title: " AMC"
+excerpt: "Applied Mathematics Club  <br><br><br>"
+feature_row1:
+  - image_path: /images/event-1.jpeg
+    alt: "Sự kiện sắp tới"
+    title: "Sự kiện sắp tới"
+    excerpt: "Sự kiện thú vị nào sắp diễn ra tại câu lạc bộ Toán ứng dụng ? Hãy cùng tìm hiểu nhé."
+    url: ""
+    btn_label: "Xem chi tiết"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /images/join-1.jpeg
+    title: "Trở thành cộng tác viên"
+    excerpt: "Bạn muốn đồng hành cùng chúng mình trong hành trình khám phá những bí ẩn thú vị của tri thức ? Còn chần chừ gì nữa, tham gia ngay nào !"
+    url: ""
+    btn_label: "Đăng ký"
+    btn_class: "btn--primary" 
+---
+<h2>{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
+<div class="grid__wrapper">
+    {% for post in paginator.posts %}
+        {% include archive-single.html type="grid" %}
+    {% endfor %}
+</div>
+{% include paginator.html type="center" %}
+{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
