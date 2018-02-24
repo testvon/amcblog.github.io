@@ -2,11 +2,11 @@ comments:
   allowedFields          : ['name', 'email', 'replying_to', 'url', 'message']
 #  requiredFields         : ['name', 'email', 'origin', 'slug', 'message']
   requiredFields         : ['name', 'email', 'message']
-  allowedOrigins         : ["testvon.github.io"]
+  allowedOrigins         : ["amcblog.github.io"]
   branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
-  name                   : "testvon.github.io"
+  name                   : "amcblog.github.io"
   format                 : "yaml"
   moderation             : true
   path                   : "_data/comments/{options.slug}" # "_data/comments/{options.slug}" (default)
