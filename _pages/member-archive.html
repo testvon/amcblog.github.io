@@ -1,0 +1,93 @@
+  ---
+layout: splash
+permalink: /about/members/
+title: "Thành viên câu lạc bộ Toán ứng dụng"
+---
+<link rel="stylesheet" type="text/css" href="/assets/css/member.css">
+
+</br><h1 class="members">{{page.title}}</h1></br>
+<!-- Collection starts -->
+<div class="collection">
+
+    <!-- Ban chuyen mon start -->
+    <div class="rowOdd author__avatar">
+        {% assign chuyenmon = site.data.members | where: "group", "chuyenmon" %}
+        {% for member in chuyenmon %}
+        <div class="member_intro">
+            <a href="#{{member.name}}"><img src="{{member.avatar }}" alt="{{ member.name }}" itemprop="image"></a>
+            <span class="name">{{member.name}}</span>
+        </div>
+        {% endfor %}
+    </div>
+    <!-- Ban chuyen mon end -->
+
+    <!-- Ban nhan su start -->
+    <div class="rowEven author__avatar">
+        {% assign nhansu = site.data.members | where: "group", "nhansu" | sort: "lastname" %}
+        {% for member in nhansu %}
+        <div class="member_intro">
+            <a href="#{{member.name}}"><img src="{{member.avatar }}" alt="{{ member.name }}" itemprop="image"></a>
+            <span class="name">{{member.name}}</span>
+        </div>
+        {% endfor %}
+    </div>
+    <!-- Ban nhan su end -->
+
+    <!-- Ban truyen thong starts -->
+    <div class="rowOdd author__avatar">
+        {% assign truyenthong = site.data.members | where: "group", "truyenthong" | sort: "year" %}
+        {% for member in truyenthong %}
+        <div class="member_intro">
+            <a href="#{{member.name}}"><img src="{{member.avatar }}" alt="{{ member.name }}" itemprop="image"></a>
+            <span class="name">{{member.name}}</span>
+        </div>
+        {% endfor %}
+    </div>
+    <!-- Ban truyen thong Ends-->
+    
+     <!-- Ban doi ngoai starts -->
+    <div class="rowEven author__avatar">
+        {% assign doingoai = site.data.members | where: "group", "doingoai" | sort: "year" %}
+        {% for member in doingoai %}
+        <div class="member_intro">
+            <a href="#{{member.name}}"><img src="{{member.avatar }}" alt="{{ member.name }}" itemprop="image"></a>
+            <span class="name">{{member.name}}</span>
+        </div>
+        {% endfor %}
+    </div>
+    <!-- Ban doi ngoai Ends-->
+
+</div>
+<!-- Collection ends -->
+
+<h2>Ban Chuyên môn</h2>
+<div itemscope itemtype ="http://schema.org/Person">
+    {% assign current = site.data.members | where: "group", "chuyenmon" %}
+    {% for memberid in current %}
+        {% include member.html member=memberid %}
+    {% endfor %}
+</div>
+
+<h2>Ban Nhân sự</h2>
+<div itemscope itemtype ="http://schema.org/Person">
+    {% assign current = site.data.members | where: "group", "nhansu" | sort: "lastname" %}
+    {% for memberid in current %}
+        {% include member.html member=memberid %}
+    {% endfor %}
+</div>
+
+<h2>Ban Truyền thông</h2>
+<div itemscope itemtype ="http://schema.org/Person">
+    {% assign current = site.data.members | where: "group", "truyenthong" | sort: "year" %}
+    {% for memberid in current %}
+        {% include member.html member=memberid %}
+    {% endfor %}
+</div>
+
+<h2>Ban Đối ngoại</h2>
+<div itemscope itemtype ="http://schema.org/Person">
+    {% assign current = site.data.members | where: "group", "doingoai" | sort: "year" %}
+    {% for memberid in current %}
+        {% include member.html member=memberid %}
+    {% endfor %}
+</div>
