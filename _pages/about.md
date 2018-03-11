@@ -11,7 +11,7 @@ feature_row:
     alt: "about AMC"
     title: "Về câu lạc bộ"
     excerpt: "Muốn biết rõ hơn về câu lạc bộ của chúng mình ?"
-    url: "https://amcblog.github.io/about/members/"
+    url: "https://amcblog.github.io/about/"
     btn_class: "btn--primary"
     btn_label: "Tìm hiểu thêm"
   - image_path: /images/header-1.jpeg
