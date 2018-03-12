@@ -39,7 +39,8 @@ bdminh:
   name: "Bùi Đức Minh"
   email: "minhbd.amc@gmail.com"
   bio: "Điện tử viễn thông"
-  avatar: "/images/members/2018/anh nen - bui minh.jpg"
+  location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
+  avatar: "/images/members/2018/bdminh.jpg"
   facebook: "https://www.facebook.com/profile.php?id=100008210371265"
   group: "nhansu"
 
@@ -77,6 +78,23 @@ test7:
   
 ###################################################################################################  
 
+nhthanh:
+  name: "Nguyễn Hữu Thanh"
+  email: "thanhnh99.amc@gmail.com"
+  bio: "Công nghệ thông tin định hướng thị trường Nhật Bản"
+  location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
+  avatar: "/images/members/2018/nhthanh.jpg"
+  facebook: "https://www.facebook.com/profile.php?id=100005741027324"
+  group: "truyenthong"
+
+ntthanh:
+  name: "Nguyễn Tuấn Thành"
+  email: "thanhnt.amc@gmail.com"
+  bio: "Cơ điện tử"
+  location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
+  avatar: "/images/members/2018/ntthanh.JPG"
+  group: "truyenthong"
+
 test8:
   name: "Test"
   email: "test@gmail.com"
@@ -111,6 +129,25 @@ test11:
   
 ###################################################################################################  
 
+hdhoan:
+  name: "Hoàng Đình Hoan"
+  email: "hoanhd.amc@gmail.com"
+  bio: "Công nghệ thông tin"
+  location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
+  avatar: "/images/members/2018/hdhoan.jpg"
+  facebook: "https://www.facebook.com/profile.php?id=100021699313785"
+  group: "doingoai"
+
+ktphong:
+  name: "Kiều Thanh Phong"
+  email: "phongkt.amc@gmail.com"
+  bio: "Truyền thông và mạng máy tính"
+  location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
+  avatar: "/images/members/2018/ktphong.JPG"
+  facebook: "https://www.facebook.com/JoshKieu"
+  twitter: "https://twitter.com/PhongJoKi"
+  group: "doingoai"
+  
 test12:
   name: "Test"
   email: "test@gmail.com"
