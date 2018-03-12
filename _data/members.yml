@@ -68,13 +68,6 @@ test6:
   facebook: "appliedmathclub"
   group: "nhansu"
   
-test7:
-  name: "Test"
-  email: "test@gmail.com"
-  bio: "Hi, i'm a Test."
-  avatar: "/assets/img/amc.png"
-  facebook: "appliedmathclub"
-  group: "nhansu"
   
 ###################################################################################################  
 
@@ -111,21 +104,6 @@ test9:
   facebook: "appliedmathclub"
   group: "truyenthong"
   
-test10:
-  name: "Test"
-  email: "test@gmail.com"
-  bio: "Hi, i'm a Test."
-  avatar: "/assets/img/amc.png"
-  facebook: "appliedmathclub"
-  group: "truyenthong"
-  
-test11:
-  name: "Test"
-  email: "test@gmail.com"
-  bio: "Hi, i'm a Test."
-  avatar: "/assets/img/amc.png"
-  facebook: "appliedmathclub"
-  group: "truyenthong"
   
 ###################################################################################################  
 
@@ -143,7 +121,7 @@ ktphong:
   email: "phongkt.amc@gmail.com"
   bio: "Truyền thông và mạng máy tính"
   location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
-  avatar: "/images/members/2018/ktphong.JPG"
+  avatar: "/images/members/2018/ktphong.jpg"
   facebook: "https://www.facebook.com/JoshKieu"
   twitter: "https://twitter.com/PhongJoKi"
   group: "doingoai"
@@ -164,18 +142,3 @@ test13:
   facebook: "appliedmathclub"
   group: "doingoai"
   
-test14:
-  name: "Test"
-  email: "test@gmail.com"
-  bio: "Hi, i'm a Test."
-  avatar: "/assets/img/amc.png"
-  facebook: "appliedmathclub"
-  group: "doingoai"
-  
-test15:
-  name: "Test"
-  email: "test@gmail.com"
-  bio: "Hi, i'm a Test."
-  avatar: "/assets/img/amc.png"
-  facebook: "appliedmathclub"
-  group: "doingoai"
