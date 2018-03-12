@@ -2,11 +2,11 @@ von:
   name: "Phạm Minh Tuấn"
   uri: "https://iamvon.github.io"
   email: "tuanpm.amc@gmail.com"
-  github: "https://github.com/iamvon"
+  github: "iamvon"
   bio: "Khoa học máy tính"
   location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
   avatar: "/assets/img/admin.png"
-  facebook: "https://www.facebook.com/this.is.von"
+  facebook: "this.is.von"
   group: "chuyenmon"
 
 test1:
@@ -41,7 +41,7 @@ bdminh:
   bio: "Điện tử viễn thông"
   location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
   avatar: "/images/members/2018/bdminh.jpg"
-  facebook: "https://www.facebook.com/profile.php?id=100008210371265"
+  facebook: "100008210371265"
   group: "nhansu"
 
 test4:
@@ -77,7 +77,7 @@ nhthanh:
   bio: "Công nghệ thông tin định hướng thị trường Nhật Bản"
   location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
   avatar: "/images/members/2018/nhthanh.jpg"
-  facebook: "https://www.facebook.com/profile.php?id=100005741027324"
+  facebook: "100005741027324"
   group: "truyenthong"
 
 ntthanh:
@@ -113,7 +113,7 @@ hdhoan:
   bio: "Công nghệ thông tin"
   location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
   avatar: "/images/members/2018/hdhoan.jpg"
-  facebook: "https://www.facebook.com/profile.php?id=100021699313785"
+  facebook: "100021699313785"
   group: "doingoai"
 
 ktphong:
@@ -122,8 +122,8 @@ ktphong:
   bio: "Truyền thông và mạng máy tính"
   location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
   avatar: "/images/members/2018/ktphong.jpg"
-  facebook: "https://www.facebook.com/JoshKieu"
-  twitter: "https://twitter.com/PhongJoKi"
+  facebook: "JoshKieu"
+  twitter: "PhongJoKi"
   group: "doingoai"
   
 test12:
