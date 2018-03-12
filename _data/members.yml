@@ -35,6 +35,14 @@ test3:
 
 ###############################################################################################
 
+bdminh:
+  name: "Bùi Đức Minh"
+  email: "minhbd.amc@gmail.com"
+  bio: "Điện tử viễn thông"
+  avatar: "/images/members/2018/anh nen - bui minh.jpg"
+  facebook: "https://www.facebook.com/profile.php?id=100008210371265"
+  group: "nhansu"
+
 test4:
   name: "Test"
   email: "test@gmail.com"
