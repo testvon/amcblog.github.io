@@ -9,20 +9,23 @@ von:
   facebook: "this.is.von"
   group: "chuyenmon"
 
-test1:
-  name: "Test"
-  email: "test@gmail.com"
-  bio: "Hi, i'm a Test."
-  avatar: "/assets/img/amc.png"
-  facebook: "appliedmathclub"
+ntlhuong:
+  name: "Nguyễn Thị Lan Hương"
+  email: "huongntl.amc@gmail.com"
+  bio: "Sư phạm Toán học"
+  location: "Trường Đại học Giáo dục, Đại học Quốc gia Hà Nội"
+  avatar: "/images/members/2018/ntlhuong.jpg"
   group: "chuyenmon"
+
   
-test2:
-  name: "Test"
-  email: "test@gmail.com"
-  bio: "Hi, i'm a Test."
-  avatar: "/assets/img/amc.png"
-  facebook: "appliedmathclub"
+lbcong:
+  name: "Lê Bá Công"
+  email: "congmb@gmail.com"
+  github: "conglb"
+  bio: "Tự thấy bản thân cần cố gắng nhiều :))  </br></br> Khoa học máy tính"
+  location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
+  avatar: "/images/members/2018/lbcong.jpg"
+  facebook: "bacongle"
   group: "chuyenmon"
   
 test3:
