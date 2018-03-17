@@ -16,7 +16,6 @@ ntlhuong:
   location: "Trường Đại học Giáo dục, Đại học Quốc gia Hà Nội"
   avatar: "/images/members/2018/ntlhuong.png"
   group: "chuyenmon"
-
   
 lbcong:
   name: "Lê Bá Công"
@@ -56,13 +55,15 @@ vttien:
   github: "vuthuytien"
   facebook: "duong.duong.73550794"
   group: "nhansu"
-  
-test5:
-  name: "Test"
-  email: "test@gmail.com"
-  bio: "Hi, i'm a Test."
+
+ttthao:
+  name: "Trịnh Thị Thảo"
+  email: "thaott.amc@gmail.com"
+  bio: "Công nghệ thông tin"
+  location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
   avatar: "/assets/img/amc.png"
-  facebook: "appliedmathclub"
+  facebook: "100018396017421"
+  github: "ThaoIE3
   group: "nhansu"
   
 test6:
