@@ -135,12 +135,14 @@ ktphong:
   twitter: "PhongJoKi"
   group: "doingoai"
   
-test12:
-  name: "Test"
-  email: "test@gmail.com"
-  bio: "Hi, i'm a Test."
-  avatar: "/assets/img/amc.png"
-  facebook: "appliedmathclub"
+dttdung:
+  name: "Đinh Thị Thùy Dung"
+  email: "dungdtt.amc@gmail.com"
+  bio: "Khoa học máy tính"
+  location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
+  avatar: "/images/members/2018/dttdung.jpg"
+  github: "thisdung"
+  facebook: "dungdung1398"
   group: "doingoai"
   
 test13:
