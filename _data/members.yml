@@ -66,14 +66,15 @@ ttthao:
   github: "ThaoIE3"
   group: "nhansu"
   
-test6:
-  name: "Test"
-  email: "test@gmail.com"
-  bio: "Hi, i'm a Test."
-  avatar: "/assets/img/amc.png"
-  facebook: "appliedmathclub"
-  group: "nhansu"
-  
+nthnhung:
+  name: "Nguyễn Thị Hồng Nhung"
+  email: "nhungnth.amc@gmail.com"
+  bio: "Hệ thống thông tin"
+  location: "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
+  avatar: "/images/members/2018/nthnhung.png"
+  facebook: "nguyen.nhumg.14"
+  github: "NguyenThiHongNhumg"
+  group: "nhansu"  
   
 ###################################################################################################  
 
