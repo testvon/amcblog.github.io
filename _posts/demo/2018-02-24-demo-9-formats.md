@@ -1,7 +1,7 @@
 ---
 layout: single
 #classes: wide
-category: demo
+#category: demo
 permalink: /categories/demo/demo-9
 tags:
   - Demo 
