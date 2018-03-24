@@ -5,7 +5,7 @@ header:
   overlay_image: /images/header-1.jpeg
   overlay_filter: 0.4
   caption:
-excerpt: 'Blog của câu lạc bộ Toán ứng dụng AMC trực thuộc Hội sinh viên Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.<br><br>[<i class="fab fa-facebook"></i> @amc](https://www.facebook.com/appliedmathclub/){: .btn .btn--facebook}'
+excerpt: 'Blog của câu lạc bộ Toán ứng dụng AMC trực thuộc Hội sinh viên Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.<br><br>&nbsp;[<i class="fab fa-facebook"></i> @appliedmathclub](https://www.facebook.com/appliedmathclub/){: .btn .btn--facebook}'
 feature_row:
   - image_path: /images/header-1.jpeg
     alt: "about AMC"
