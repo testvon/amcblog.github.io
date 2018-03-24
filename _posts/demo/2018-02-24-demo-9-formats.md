@@ -3,7 +3,7 @@ layout: single
 #classes: wide
 category: demo
 search: false
-permalink: /categories/demo/demo-9
+#permalink: /categories/demo/demo-9
 tags:
   - Demo 
   - formatting
