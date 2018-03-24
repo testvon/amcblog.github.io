@@ -330,7 +330,7 @@ pp {
 }
 
 .taxonomy__count {
-  color: #9abde5;
+  color: #719ed3;
 }
 
 .taxonomy__index {
@@ -339,7 +339,7 @@ pp {
   grid-template-columns: repeat(2, 1fr);
   margin: 1.414em 0;
   padding: 0;
-  font-size: 0.75em;
+  font-size: 16px;
   list-style: none;
 
   @include breakpoint($large) {
