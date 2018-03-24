@@ -1,5 +1,5 @@
 ---
-layout: sci-tech
+layout: posts-sci-tech
 permalink: /categories/sci-tech/
 title: "Khoa học và Công nghệ"
 header:
